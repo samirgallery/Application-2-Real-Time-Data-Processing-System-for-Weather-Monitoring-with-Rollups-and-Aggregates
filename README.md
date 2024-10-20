@@ -1,0 +1,2 @@
+# Application-2-Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates
+The system will continuously retrieve weather data from the OpenWeatherMap API. You will need to sign up for a free API key to access the data. The API provides various weather parameters, and for this assignment, we will focus on:  ●main: Main weather condition (e.g., Rain, Snow, Clear) ●temp: Current temperature in Centigrade 
